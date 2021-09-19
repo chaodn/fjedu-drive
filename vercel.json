@@ -3,3 +3,4 @@
   "routes": [
       {"src": "/(.*)","dest": "http://res.fjedu.cn/$1"}
   ]
+}
